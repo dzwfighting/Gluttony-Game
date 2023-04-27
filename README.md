@@ -2,7 +2,7 @@
 A simple game of Gluttony built using JavaScript, HTML, CSS, Bootstrap, and Sass.
 
 ## Demo
-You can play the game by visiting https://yourusername.github.io/gluttony-game/
+You can play the game by visiting [https://yourusername.github.io/gluttony-game/](https://gluttony-game.netlify.app/)
 
 ## How to Play
 The objective of the game is to eat as many food items as possible within a given time limit. Use the arrow keys to move the character around the screen and collect the food items. When the head of the greedy snake touches his body, the game is over.
