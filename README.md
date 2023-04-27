@@ -1,5 +1,5 @@
 # Gluttony-Game
-A simple game of Gluttony built using JavaScript, HTML, CSS, Bootstrap, and Sass.
+A simple game of Gluttony built using JavaScript, HTML, CSS.
 
 ## Demo
 You can play the game by visiting https://gluttony-game.netlify.app/
@@ -10,7 +10,7 @@ The objective of the game is to eat as many food items as possible within a give
 ## Features
  - Use of HTML, CSS, and JavaScript to create a dynamic and interactive game.
  - Responsive design with Bootstrap.
- - Sass for efficient and modular CSS.
+ 
 ## Display
 ![image](https://user-images.githubusercontent.com/90535397/234763792-543148a7-d502-4254-9d7b-07ec5a41d291.png)
 
